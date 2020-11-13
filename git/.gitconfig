@@ -6,6 +6,7 @@
 	program = gpg
 [core]
 	editor = nano
+	excludesfile = /Users/tale/.gitignore
 [pull]
 	rebase = true
 
