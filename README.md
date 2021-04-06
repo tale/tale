@@ -1,5 +1,6 @@
 #### Welcome to my Github 👋
-Make sure to check out some of my latest projects below. If you have any questions feel free to email me at [aarnav@tale.me](mailto:aarnav@tale.me) or DM me on [Twitter (@aarnavtale)](https://twitter.com/aarnavtale)
+Make sure to check out some of my latest projects below.<br>
+If you have any questions feel free to email me at [aarnav@tale.me](mailto:aarnav@tale.me) or DM me on [Twitter (@aarnavtale)](https://twitter.com/aarnavtale)
 
 ---
 
