@@ -1,19 +1,22 @@
-**Hello There 👋**<br/>
-I'm a 16 year old, Canadian-American developer with a wide variety of skills and projects.<br>
+#### Welcome to my Github 👋
+Make sure to check out some of my latest projects below. If you have any questions feel free to email me at [aarnav@tale.me](mailto:aarnav@tale.me) or DM me on [Twitter (@aarnavtale)](https://twitter.com/aarnavtale)
 
+---
 
-**My Skills 🤹**<br>
- - Experience in C/Objective-C, Swift, and general app development on Apple platforms.
- - Learning the [MonoGame](https://www.monogame.net) framework and general C#. Abusing Reflection
- - JavaScript and TypeScript (NodeJS), with experience in [ExpressJS](https://expressjs.com), [Svelte/Sapper](https://github.com/sveltejs), [Mongoose](https://mongoosejs.com), [React](https://reactjs.org/), and more
-- Java & Kotlin experience. Familiar with libraries such as [mini2Dx](https://github.com/mini2Dx/mini2Dx), [Guava](https://google.com/guava), and build systems like [Gradle](https://gradle.org)
+**My Skills & Experiences 🤹**<br>
+- iOS & macOS Platform Development using Objective C & Swift. 
+- Industry web frameworks like Sapper, Svelte, React, and Next.
+- C#, Java, and Kotlin with tools like MonoGame & Mini2Dx.
+- TypeScript coupled with tools like Express and Prisma.
+- Python for the occassional machine learning project.
 
-<br>
+**Projects**<br>
+- iOS Runtime Tweaks: [Lyricify](https://chariz.com/buy/lyricify), [Panic](https://github.com/tale/panic), and [Notations](https://github.com/tale/notations)
+- Canister, a consolidated API for Jailbreak Repositories
+- [Supercharge](https://supercharge.app) a tool that empowers you to tweak applications
+- [Sileo for Elucubratus](https://github.com/tale/sileo), a port of the powerful Sileo package manager for all jailbroken devices.
+---
 
-| Notable Projects 🚧 | Info ℹ️ |
-|--------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [Lyricify](https://chariz.com/buy/lyricify) 🎶 | An iOS Runtime Modification that lets you view the lyrics to any song on your lock screen |
-| [Notations](https://github.com/tale/notations) 📝 | An open source iOS Runtime Modification that allows you to take notes anywhere on your screen |
-| [Supernova](https://github.com/tale/supernova-hackbi) 💥 | My first attempt at a game in a Hackathon, built with friends, has terrible code, but works |
-| Meteorite ☄️ | My own C# Space Game (written using MonoGame) that's coming soon! |
-| Whistler 🔧 | The second version of my API and my first major TypeScript project. Handles licensing and lyrics for Lyricify |
+<sup>
+<a href="https://keybase.io/aarnavtale/pgp_keys.asc">PGP Key</a> — 7EFA 69A3 5065 B2DF CE9C C84A DA16 48E2 E15B A76D
+</sup>
