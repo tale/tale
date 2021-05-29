@@ -1,5 +1,3 @@
 # Aarnav Tale
 
-ACLHack
-
-*September 22*
+**September 22**
